@@ -1,0 +1,14 @@
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\bin\Debug\net7.0\FieldsAndConstant.exe
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\bin\Debug\net7.0\FieldsAndConstant.deps.json
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\bin\Debug\net7.0\FieldsAndConstant.runtimeconfig.json
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\bin\Debug\net7.0\FieldsAndConstant.dll
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\bin\Debug\net7.0\FieldsAndConstant.pdb
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\FieldsAndConstant.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\FieldsAndConstant.AssemblyInfoInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\FieldsAndConstant.AssemblyInfo.cs
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\FieldsAndConstant.csproj.CoreCompileInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\FieldsAndConstant.dll
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\refint\FieldsAndConstant.dll
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\FieldsAndConstant.pdb
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\FieldsAndConstant.genruntimeconfig.cache
+D:\ProjectsMetigator\CSharp_Lesson_008\FieldsAndConstant\FieldsAndConstant\obj\Debug\net7.0\ref\FieldsAndConstant.dll
